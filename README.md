@@ -2,4 +2,6 @@
 - PyQT-Study
 - Python Source Code for personal study
 
-- Serial Communication exam
+# pyqt exam sources
+- mainWindow.ui application
+- Serial Communication appliction
